@@ -42,7 +42,8 @@ Abra o Termux e rode:
 pkg update -y
 pkg install python -y
 pip install rich
-curl -O https://raw.githubusercontent.com/Mcsd7/netscope/main/netscope.py
+curl -O https://github.com/Mcsd7/Netscop.git
+netscope.py
 python netscope.py
 ```
 
